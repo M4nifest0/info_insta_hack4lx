@@ -1,0 +1,1 @@
+pyinstaller info_insta_hack4lx.py --onefile --icon="C:\Users\Hack4lx\Desktop\info_insta_hack4lx/file.ico"
