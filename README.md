@@ -48,14 +48,6 @@ def printlogo():
                                                                                       
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
-    First you need create app on https://my.telegram.org 
-    api_id = hack4lx
-    api_hash = 'hack4lx'
-    phone = '+hack4lx'
-    limit = 100
-
-✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
-
     pyinstaller info_insta_hack4lx.py --onefile --icon="C:\Users\Hack4lx\Desktop\info_insta_hack4lx/file.ico"
 
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
