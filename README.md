@@ -50,7 +50,7 @@
 
 ##### See Training 
 
-- 🔞 See Training 🎥 https://youtu.be/OcLLTlrSZYM  🎥
+- 🔞 See Training 🎥 https://youtu.be/RYWdjho3iyg 🎥
 
 
 ----------------------
