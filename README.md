@@ -16,10 +16,19 @@
 
 ##### What information do we get
 ----------------------
-- 📍 phone number
-- 📍 number below
-- 📍 Number of followers
-- 📌 EMAIL
+- 📍 Username
+- 📍 Sessionsid
+- 📍 FullName
+- 📍 Verified
+- 📍 IsPrivate
+- 📍 Follower
+- 📍 Number of Posts
+- 📍 Number of Tag In Posts
+- 📍 Extrnal URL
+- 📍 IGTV Posts
+- 📍 Biography
+- 📍 Email
+- 📍 Phone Number
 - 📌 AND...
 	
 ### Getting chat source
